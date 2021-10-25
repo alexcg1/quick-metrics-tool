@@ -1,0 +1,3 @@
+rich
+python-github
+python-dotenv
